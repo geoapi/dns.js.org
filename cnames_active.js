@@ -178,6 +178,7 @@ var cnames_active = {
     ,"gal": "galmail.github.io"
     ,"gamedevcontestal": "fromdenisvieira.github.io/gamedevcontestal"
     ,"geekr": "ruanyl.github.io/geekr"
+    ,"geo":"http://eduac.github.io/george-ajam.ga"
     ,"genpasswd": "exos.github.io/genpasswd"
     ,"getlink":"ilovecode1.github.io/linkjs"
     ,"ghsamm": "ghsamm.github.io"
